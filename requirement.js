@@ -23,8 +23,8 @@ Publications
 ---API---
 Book:
  - GET
-    1. to get all books.
-    2. to get specific books.
+    1. to get all books.✅
+    2. to get specific books.✅
     3. to get a list of books based on category.
     4. to get a list of books based on author.
 
@@ -77,3 +77,11 @@ Publication
 
 
 */ 
+
+/*
+Things to always Remember
+
+ -No two APIs should have the same route. (to avoid the browser mistaking one route for another)
+
+
+*/

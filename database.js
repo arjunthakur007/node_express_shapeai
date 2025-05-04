@@ -1,6 +1,6 @@
 //Temporary Database
 
-let Book = [
+let Books = [
     {
         ISBN:"12345ONE",
         title: "Getting started with MERN",
@@ -49,5 +49,5 @@ let Publication = [
     }
 ];
 
-module.exports = {Book, Author, Publication};
+module.exports = {Books, Author, Publication}
 
