@@ -49,3 +49,5 @@ let Publication = [
     }
 ];
 
+module.exports = {Book, Author, Publication};
+
